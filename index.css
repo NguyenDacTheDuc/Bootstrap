@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.input-group span {
+  border-radius: 62px;
+}
+.form-control {
+  border-radius: 62px;
+}
+.home-banner {
+  background-image: url(Rectangle\ 2.png);
+  background-size: cover;
+}
+.banner {
+  margin: 6% 0 0 5%;
+}
+.banner-title h1 {
+  font-weight: 800;
+  font-size: 70px;
+  line-height: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.banner-subtitle {
+  font-weight: 400;
+  font-size: 18px;
+  margin-top: 3%;
+}
+.banner-button button {
+  margin: 3% 0 4% 0;
+  width: 210px;
+  height: 52px;
+  border-radius: 62px;
+}
+.navbar-brand {
+  font-size: 40px;
+}
+.btnViewAll {
+  padding: 10px 60px;
+}
+.titlePro {
+  font-size: 50px;
+}
+.stylePeople img {
+  height: 270px;
+  object-fit: none;
+}
+.stylePeople {
+  background-color: #f0f0f0;
+  border-radius: 40px;
+}
+.sao {
+  font-size: 30px;
+}
+.custom-check {
+  color: white;
+  background-color: green;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  padding: 2px 0 0 3px;
+}
+.hai div {
+  border: #f0f0f0 1px solid;
+  border-radius: 10%;
+}
+.fdau h1 {
+  font-size: 45px;
+}
+.fdau {
+  border-radius: 20px;
+}
+.fhai {
+  background-color: #f0f0f0;
+  padding: 100px 0px 0px 50px;
+}
+.fhaiLogo i {
+  border: 1px solid #181818;
+  border-radius: 50%;
+  padding: 7px 7px 7px 7px;
+}
+.fhaiLog img {
+  height: 40px;
+  width: 60px;
+  padding: 10px;
+  border: 1px solid #e2dede;
+  border-radius: 10px;
+  margin-left: 5%;
+  background-color: white;
+}
